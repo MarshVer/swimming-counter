@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoopRecorder", "LoopRecorder\LoopRecorder.csproj", "{F7D6F702-8B92-4F31-85CA-9BE5F484E270}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F7D6F702-8B92-4F31-85CA-9BE5F484E270}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7D6F702-8B92-4F31-85CA-9BE5F484E270}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7D6F702-8B92-4F31-85CA-9BE5F484E270}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7D6F702-8B92-4F31-85CA-9BE5F484E270}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
